@@ -1,0 +1,13 @@
+myShop\external\Cancellation.class
+myShop\OrderApplication.class
+myShop\OrderRepository.class
+myShop\OrderCanceled.class
+myShop\OrderController.class
+myShop\Shipped.class
+myShop\external\CancellationService.class
+myShop\Order.class
+myShop\Ordered.class
+myShop\AbstractEvent$1.class
+myShop\config\kafka\KafkaProcessor.class
+myShop\PolicyHandler.class
+myShop\AbstractEvent.class
